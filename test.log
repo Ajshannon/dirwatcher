@@ -1,0 +1,15 @@
+2018-09-10 11:05:27,995:INFO:MainThread:checking... test1.txt
+2018-09-10 11:05:27,997:INFO:MainThread:searching test1.txt for instances of red
+2018-09-10 11:05:27,997:INFO:MainThread:Match found for red found on line 3 in test1.txt
+2018-09-10 11:05:27,997:INFO:MainThread:Match found for red found on line 12 in test1.txt
+2018-09-10 11:05:27,997:INFO:MainThread:Match found for red found on line 14 in test1.txt
+2018-09-10 11:05:27,997:INFO:MainThread:Match found for red found on line 27 in test1.txt
+2018-09-10 11:05:27,997:INFO:MainThread:checking... test2.txt
+2018-09-10 11:05:27,997:INFO:MainThread:searching test2.txt for instances of red
+2018-09-10 11:05:27,997:INFO:MainThread:Match found for red found on line 1 in test2.txt
+2018-09-10 11:05:27,997:INFO:MainThread:Match found for red found on line 6 in test2.txt
+2018-09-10 11:05:27,998:INFO:MainThread:checking... test3.txt
+2018-09-10 11:05:27,998:INFO:MainThread:searching test3.txt for instances of red
+2018-09-10 11:05:27,998:INFO:MainThread:Match found for red found on line 8 in test3.txt
+2018-09-10 11:05:27,998:INFO:MainThread:Match found for red found on line 23 in test3.txt
+2018-09-10 11:06:04,736:WARNING:MainThread:Received signal: 2
